@@ -6,4 +6,8 @@ K Arduino UNO R3 Microcontroller Module Atmel AVR USB
 F https://www.arduino.cc/en/Main/arduinoBoardUno
 $ENDCMP
 #
+$CMP FM8002A
+F https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C94625_ED7C7489183EB37821114754C0687088.pdf
+$ENDCMP
+#
 #End Doc Library
